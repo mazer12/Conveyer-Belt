@@ -6,7 +6,7 @@ Prototype assessment. The player must guide the item from the start point to the
 The game contains three levels with increasing difficulty.
 
 
-##To play
+# To play
 
 The game starts at Level1, press SPACE to start the level (item will start moving in belt), press the button to turn (remember to press the button exactly when the item stops for less than a second, otherwise you will fail). 
 
