@@ -28,9 +28,6 @@ public class TurnTile : ConveyorTile
         {
             selectedDirection = turnDirection;
         }
-        else
-        {
-            Debug.Log("Too early, you lost, Try again!");
-        }
+
     }
 }
