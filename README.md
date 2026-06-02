@@ -5,6 +5,9 @@
 Prototype assessment. The player must guide the item from the start point to the correct end hole by using interactable mechanics.
 The game contains three levels with increasing difficulty.
 
+## Unity Version
+6000.3.10f1
+
 
 ## To play
 
